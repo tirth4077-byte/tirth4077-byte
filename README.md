@@ -1,76 +1,162 @@
-# 👋 Hi, I'm Tirth Vipulkumar Patel
+# 👋 Hi, I'm Tirth Patel
 
-🎓 B.Tech Student at **G H Patel College of Engineering & Technology**  
-🏫 CVM University
+🎓 B.Tech IT Student | Aspiring Data Analyst | Python & SQL Enthusiast
 
-🤖 I am interested in **Robotics, Autonomous Systems, and Computer Vision**.  
-🏆 I actively work on **robotics competition projects (Robofest)** and enjoy building practical, real-world systems.
+I'm passionate about transforming raw data into meaningful insights through data analysis, visualization, and machine learning. I enjoy solving real-world business problems using SQL, Python, Excel, and Power BI while continuously improving my analytical and technical skills.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🚀 About Me
 
-### 💻 Programming Languages
+- 🎓 B.Tech Information Technology
+- 📊 Interested in Data Analytics & Business Intelligence
+- 💻 Strong foundation in SQL, Python, DBMS, and Data Visualization
+- 📈 Currently building end-to-end Data Analytics projects
+- 🌱 Learning Advanced SQL, Power BI, ETL, and Machine Learning
+- 🎯 Goal: Become a Data Analyst and work on impactful data-driven solutions
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
 - Python
+- SQL
 - C
 - C++
-- Java
 
-### 📚 Core Computer Science
-- Data Structures & Algorithms
-- Operating Systems
-- Computer Networks
-- Computer Organization & Architecture
+### Data Analytics
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- ETL Fundamentals
 
-### 🤖 Robotics & Computer Vision
-- OpenCV (basic to intermediate)
-- Camera-based obstacle detection
-- Autonomous rover logic (early stages)
-- Sensor integration concepts
+### Databases
+- PostgreSQL
+- MySQL
+- Relational Databases
 
-### 🧰 Tools
-- Git & GitHub
-- Linux / Ubuntu
+### BI Tools
+- Power BI
+- Microsoft Excel
+
+### Libraries
+- Scikit-learn
+- OpenCV
+- Matplotlib
+
+### Tools
+- Git
+- GitHub
 - VS Code
-- Matplotlib & Seaborn
+- Google Colab
 
 ---
 
-## 🚀 Projects
-- **Autonomous Rover (Robotics Competition)**  
-  Computer vision–based obstacle detection and navigation
+# 📂 Featured Projects
 
-- **Hotel Management System**  
-  Requirement gathering and technical requirement specification
+## 📊 Sales Data Analysis Dashboard
 
-- **Data Visualization using Python**  
-  Dataset analysis and plotting using Matplotlib and Seaborn
+### Description
+Analyzed retail sales data using SQL and Power BI to identify business trends, customer behavior, and regional performance.
 
-- **Academic Implementations**  
-  Programs and practice work for DSA, OS, CN, COA, and Java
+### Technologies
+- SQL
+- PostgreSQL
+- Power BI
+- Excel
 
----
-
-## 🎯 Strengths
-- Strong logical thinking and problem-solving skills  
-- Good understanding of core computer science subjects  
-- Comfortable working in team-based technical projects  
-- Curious learner with interest in competition-oriented engineering  
-
----
-
-## 📚 Currently Learning
-- Advanced Computer Vision for Robotics  
-- ROS / ROS2 basics  
-- Algorithm optimization and real-world navigation logic  
+### Key Features
+- Sales KPI Dashboard
+- Regional Sales Analysis
+- Customer Segmentation
+- Profit Analysis
+- Interactive Power BI Visualizations
 
 ---
 
-## 🔮 Interests
-- Robotics & Autonomous Systems  
-- Computer Vision applications  
-- Embedded and intelligent systems  
+## 🤖 AI-Based Online Proctoring System
+
+### Description
+Developed an AI-powered online examination monitoring system using Computer Vision and Machine Learning.
+
+### Technologies
+- Python
+- OpenCV
+- MediaPipe
+- Scikit-learn
+
+### Features
+- Face Detection
+- Multiple Face Detection
+- Head Pose Estimation
+- Eye Gaze Tracking
+- Phone Detection
+- Suspicious Activity Detection
 
 ---
 
-> “Learning by building, improving by competing.”
+## 📈 Data Analytics with Python
+
+### Topics Covered
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis
+- Data Visualization
+- Statistical Analysis
+- Feature Engineering
+
+Libraries Used:
+- Pandas
+- NumPy
+- Matplotlib
+
+---
+
+# 📚 Currently Learning
+
+- Advanced SQL
+- Power BI
+- Data Warehousing
+- ETL Pipelines
+- Machine Learning
+- Business Intelligence
+- Data Storytelling
+
+---
+
+# 🏆 Certifications
+
+- Python Programming
+- SQL
+- Data Analytics (In Progress)
+
+---
+
+# 📫 Connect With Me
+
+GitHub:
+https://github.com/tirth4077-byte
+
+Email:
+tirth4077@gmail.com
+
+---
+
+## 📈 GitHub Stats
+
+> GitHub Stats and Streak cards can be added using GitHub Readme Stats.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirth4077-byte&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth4077-byte&layout=compact)
+
+---
+
+## 💡 Motto
+
+> "Turning Data into Decisions."
+
+⭐ If you like my work, don't forget to star the repositories!
